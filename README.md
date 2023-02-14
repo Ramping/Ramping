@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi! I'm Aleksanr Popov, a software developer engineer in test 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">Hi! I'm Aleksandr Popov, a software developer engineer in test 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 <br/> 
